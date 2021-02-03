@@ -31,7 +31,7 @@ Im looking forward to extend my knovledge in a front-end field and to learn Java
 - [Dijkstra algorithm implemented with C](https://github.com/ymushet/Lem_in)
 
 ***
-### EXPERIENCE
+### Experience
 
 
 **City24 04.2020 - current time**
@@ -43,9 +43,11 @@ Im looking forward to extend my knovledge in a front-end field and to learn Java
 >Developed a students learning portal for educational program using Django,
 DRF, Celery, RabbitMQ, Gitlab API.
 ***
-### EDUCATUION
+### Education
 ***Ecole 42 ([https://www.42.fr/](https://www.42.fr/)) - Computer Software Engineering 11.2016 - 11.2017***
 
->Study project was mostly written in C. Project that I worked on was an implementation of an algorithms. For exampande Dijkstra algorithm, FIFO stack, implementations of C standard library, standard functions like printf, standard command line utility ls.
-etc.
+>Study projects were mostly written in C. Projects that I worked on was an implementations of an algorithms. For example Dijkstra algorithm, FIFO stack, implementations of C standard library, standard functions like printf, standard command line utility ls etc.
 ***
+### English
+B1 (Intermediate)
+>Business English, University College London (2011)
