@@ -12,10 +12,8 @@ PyQt5 GUI Developer
 ***
 ### Summary
 
-As a PyQT GUI developer I am currently implementing new GUI design and a few custom GUI themes for a desktop product.
-
+>As a PyQT GUI developer I am currently implementing new GUI design and a few custom GUI themes for a desktop product.
 As a backend developer I performed backend development of REST api services and took part in architecture design, code review, refactoring code base, unit and manual testing.
-
 Im looking forward to extend my knovledge in a front-end field and to learn JavaScript.
 ***
 ### Skills
@@ -32,4 +30,22 @@ Im looking forward to extend my knovledge in a front-end field and to learn Java
 - [Social network REST api](https://github.com/ymushet/social-network-rest-api)
 - [Dijkstra algorithm implemented with C](https://github.com/ymushet/Lem_in)
 
+***
+### EXPERIENCE
+
+
+**City24 04.2020 - current time**
+ 
+>Creating Linux desktop application solution for payment terminal. Supporting current codebase, refactoring and implementing new GUI design alongside with implementing unique customer needs with PyQt5 GUI library.
+
+**UNIT Factor Python backend developer 09.2019 - 03.2020**
+
+>Developed a students learning portal for educational program using Django,
+DRF, Celery, RabbitMQ, Gitlab API.
+***
+### EDUCATUION
+***Ecole 42 ([https://www.42.fr/](https://www.42.fr/)) - Computer Software Engineering 11.2016 - 11.2017***
+
+>Study project was mostly written in C. Project that I worked on was an implementation of an algorithms. For exampande Dijkstra algorithm, FIFO stack, implementations of C standard library, standard functions like printf, standard command line utility ls.
+etc.
 ***
