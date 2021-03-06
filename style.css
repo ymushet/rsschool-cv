@@ -1,0 +1,114 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+.container {
+  height: 100%;
+  margin: 0 auto;
+  font-style: normal;
+  background-color: white;
+}
+
+.header_container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f6bb33;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header_text {
+  margin-top: 20px;
+  font-size: 42px;
+  color: #f7f7f7;
+  line-height: 60px;
+  font-weight: 500;
+  letter-spacing: 10px;
+  text-align: center;
+}
+
+.header_photo_img {
+  width: 400px;
+  height: 400px;
+  border: 10px solid #f7f7f7;
+}
+
+.block_head {
+  color: black;
+  font-size: 38px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.block {
+  color: black;
+  font-size: 28px;
+  text-align: center;
+}
+
+.about_me {
+  text-align: center;
+  font-size: 24px;
+}
+
+.main {
+  margin: 30px;
+}
+
+.main_container {
+  margin-bottom: 20px;
+}
+
+.list_experience_item,
+.list_skills_item,
+.list_education_item {
+  font-size: 24px;
+  padding: 10px;
+}
+
+.list_skills_item {
+  text-align: left;
+}
+
+.footer {
+  padding: 30px;
+  background-color: #f6bb33;
+}
+
+.footer_header {
+  color: #f7f7f7;
+  font-size: 38px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.list_experience,
+.list_education {
+  display: flex;
+  flex-direction: column;
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+.list_skills {
+  display: flex;
+  justify-content: center;
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+.list_contacts {
+  display: flex;
+  justify-content: center;
+}
+
+.list_contacts_item {
+  margin-left: 20px;
+}
