@@ -68,7 +68,8 @@ html {
 
 .list_experience_item,
 .list_skills_item,
-.list_education_item {
+.list_education_item,
+.list_languages_item {
   font-size: 24px;
   padding: 10px;
 }
@@ -97,7 +98,7 @@ html {
   list-style-position: inside;
 }
 
-.list_skills {
+.list_skills, .list_languages {
   display: flex;
   justify-content: center;
   list-style-type: disc;
